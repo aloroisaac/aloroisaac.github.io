@@ -1,0 +1,14 @@
+
+.header{
+	   float: right;
+}
+h1{
+	text-align: center;
+	color: blue; 
+	font-family: Times New Romans;
+}
+p{
+	text-align: center;
+	color: Red; 
+	font-family:Gothic century;
+}
