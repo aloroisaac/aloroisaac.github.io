@@ -1,0 +1,46 @@
+*{
+    magin:0PX;
+	padding:0PX;
+	font-family: Century Gothic;
+    background-color: greenyellow;
+}
+.header {
+    background-position: center;
+    
+}
+           
+    ul{
+        float: right;
+        list-style-type: none;
+        margin: 25px;
+    }
+    ul li{
+        display: inline-block;
+    }
+    ul li a{
+    text-decoration: none;
+	color:blue;
+	padding: 5px 20px;
+	border: transparent;
+	transition: 0.6 ease;
+    }
+    ul li a:hover{
+        background-color: aqua;
+        color: brown;
+    }
+    .boy{
+        margin: 50px;
+        
+    }
+    .container-fluid{
+        text-align: center;
+        border: 1px solid;
+        
+    }
+    h1{
+        text-align: center;
+        margin: 100px;
+    }
+    p{
+        text-align: left;
+    }
